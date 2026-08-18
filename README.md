@@ -7,7 +7,8 @@ A small, standalone app that proves **[ToOS](https://github.com/ToBee94/ToOS)**
 works outside the site it was extracted from — installed as a plain npm
 dependency, no shared code, no monorepo.
 
-**[Live demo →](https://tobee94.github.io/ToOS-Demo/)**
+**[Live demo →](https://tobee94.github.io/ToOS-Demo/)** · for a full
+production site built on ToOS, see **[tobee94.de](https://tobee94.de)**.
 
 ![ToOS-Demo in light and dark mode](./.github/assets/screenshot.png)
 
